@@ -1,21 +1,25 @@
 {
-  "name": "myapp",
-  "version": "1.0.0",
-  "description": "This is a test",
-  "main": "index.js",
-  "scripts": {
-    "test": "What?"
-  },
-  "repository": {
-    "type": "git",
-    "url": "ThisOne"
-  },
-  "keywords": [
-    "Key"
-  ],
-  "author": "Cliff",
-  "license": "UNLICENSED",
-  "dependencies": {
-    "express": "^4.16.2"
-  }
+    "name": "myapp",
+    "version": "1.0.0",
+    "description": "This is a test",
+    "main": "index.js",
+    "scripts": {
+        "test": "What?"
+    },
+    "repository": {
+        "type": "git",
+        "url": "ThisOne"
+    },
+    "keywords": ["Key"],
+    "author": "Cliff",
+    "license": "UNLICENSED",
+    "dependencies": {
+        "express": "^4.16.2"
+    },
+    "devDependencies": {
+        "eslint": "^4.13.1"
+    },
+    "script": {
+        "lint": "eslint src/js"
+    }
 }
