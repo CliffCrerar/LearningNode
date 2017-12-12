@@ -1,0 +1,21 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "This is a test",
+  "main": "index.js",
+  "scripts": {
+    "test": "What?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ThisOne"
+  },
+  "keywords": [
+    "Key"
+  ],
+  "author": "Cliff",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
