@@ -1,0 +1,22 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "Node JS test app",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CliffCrerar/LearningNode.git"
+  },
+  "author": "Cliff Crerar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CliffCrerar/LearningNode/issues"
+  },
+  "homepage": "https://github.com/CliffCrerar/LearningNode#readme",
+  "dependencies": {
+    "moment": "^2.22.1"
+  }
+}
