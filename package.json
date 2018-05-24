@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CliffCrerar/LearningNode#readme",
   "dependencies": {
+    "ejs": "^2.6.1",
     "moment": "^2.22.1"
   }
 }
